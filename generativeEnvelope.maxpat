@@ -10,7 +10,7 @@
 ,
 		"rect" : [ 4.0, 44.0, 1436.0, 810.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -4374,7 +4374,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 84.070038, 345.034698, 48.38269, 37.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 17.99234, 17.977341, 336.009796, 169.947418 ],
+					"presentation_rect" : [ 17.99234, 17.977341, 336.009796, 169.326492 ],
 					"rounded" : 5.0,
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
@@ -4732,7 +4732,7 @@
 					"destination" : [ "obj-860", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 366.883865, 354.959274, 68.753998, 354.959274 ],
+					"midpoints" : [ 366.883866, 354.959274, 68.753998, 354.959274 ],
 					"source" : [ "obj-850", 3 ]
 				}
 
@@ -4911,21 +4911,21 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-865" : [ "live.toggle[66]", "live.toggle[16]", 0 ],
-			"obj-834::obj-36" : [ "toggle[39]", "toggle[2]", 0 ],
-			"obj-862" : [ "live.toggle[63]", "live.toggle[16]", 0 ],
+			"obj-831::obj-36" : [ "toggle[37]", "toggle[2]", 0 ],
+			"obj-867" : [ "live.menu[12]", "live.menu", 0 ],
 			"obj-838" : [ "live.dial[1]", "restartTime", 0 ],
-			"obj-8" : [ "live.toggle[1]", "live.toggle", 0 ],
-			"obj-832::obj-36" : [ "toggle[38]", "toggle[2]", 0 ],
 			"obj-864" : [ "live.toggle[65]", "live.toggle[16]", 0 ],
+			"obj-839" : [ "envSize[1]", "envelopeSize", 0 ],
 			"obj-840" : [ "Metronome[1]", "readTime", 0 ],
+			"obj-8" : [ "live.toggle[1]", "live.toggle", 0 ],
 			"obj-869" : [ "live.toggle[69]", "live.toggle[16]", 0 ],
 			"obj-866" : [ "live.toggle[67]", "live.toggle", 0 ],
+			"obj-834::obj-36" : [ "toggle[39]", "toggle[2]", 0 ],
+			"obj-832::obj-36" : [ "toggle[38]", "toggle[2]", 0 ],
 			"obj-863" : [ "live.toggle[64]", "live.toggle[16]", 0 ],
-			"obj-839" : [ "envSize[1]", "envelopeSize", 0 ],
 			"obj-868" : [ "live.toggle[68]", "live.toggle", 0 ],
-			"obj-867" : [ "live.menu[12]", "live.menu", 0 ],
-			"obj-831::obj-36" : [ "toggle[37]", "toggle[2]", 0 ]
+			"obj-865" : [ "live.toggle[66]", "live.toggle[16]", 0 ],
+			"obj-862" : [ "live.toggle[63]", "live.toggle[16]", 0 ]
 		}
 ,
 		"dependency_cache" : [  ]
