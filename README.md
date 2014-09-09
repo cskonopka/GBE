@@ -31,6 +31,4 @@
 
 **parameter**: *after selecting a device from the Audio Effect rack, this menu will be populated and will contain all of the names of the available parameters associated with the previously selected Audio Effect*
 
-**menu reset**: *refresh the Device and Parameter menu**
-
-**presets**: *recall Audio Plug-in devices/parameters*
+**menu reset**: *refresh the Device and Parameter menu [stored in a JSON file named generativeENV.json]*
