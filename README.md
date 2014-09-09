@@ -1,7 +1,7 @@
 #generativeEnvelope
 ==================
 
-###generative breakpoint envelope for audio plug-ins/software
+###generative breakpoint envelope for Ableton and MaxMSP
 
 ![Max-for-Live](http://christopherkonopka.com/wp-content/uploads/2014/09/github-m4L-generativeEnvelope.png)
 
