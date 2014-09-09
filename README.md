@@ -7,18 +7,26 @@ generative breakpoint envelope for audio plug-ins/software
 
 The purpose of this plug-in is to give the user the ability to create their own envelope to be applied to an audio plug-in parameter or Session View parameter. An envelope can be created manually by adding breakpoints individually or by using the restart feature which generates random breakpoints. 
 
-envelopeSize
+**envelopeSize**
+the maximum value of the x-axis
 
-readTime
+**readTime**
+the speed at which the envelope is read
 
-restartTime
+**restartTime**
+the amount of time it takes to re-trigger the envelope
 
-add point
+**add point**
+manually add a generative point
 
-trigger
+**trigger**
+trigger the envelope
 
-clear
+**clear**
+clear the envelope
 
-loop new pts
+**loop new pts**
+when enabled with restart time ON, each time the loop is restarted, a new generative breakpoint will be added.
 
-curve resolution
+**curve resolution**
+this is the resolution of randomness that generates new breakpoints
