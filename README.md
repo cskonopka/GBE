@@ -29,6 +29,10 @@ https://www.youtube.com/watch?v=7SjVqSB3FCI
 
 **loop new pts**: *when enabled with restart time ON, each time the loop is restarted, a new generative breakpoint will be added*
 
+**lo**: *this determines the lowest point of the envelope [re-scaled from 0 -1 to lo - hi]*
+
+**hi**: *this determines the highest point of the envelope [re-scaled from 0 -1 to lo - hi]*
+
 **device**: *when this plug-in is placed in the Audio Effect rack, this menu will be populated and will contain all of the names of the available plug-ins in the associated effect rack*
 
 **parameter**: *after selecting a device from the Audio Effect rack, this menu will be populated and will contain all of the names of the available parameters associated with the previously selected Audio Effect*
