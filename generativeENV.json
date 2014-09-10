@@ -32,6 +32,37 @@
 				}
 
 			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"CurveEnvelope" : [ 32.480316 ],
+					"CurveFunction" : [ 32.0, 0.0, 1.0, 0.0, 0.0, 0, 0.0, 24.0, 0.109741, 0, 0.813477, 32.0, 0.0, 0, 0.0, "curve" ],
+					"CurveOnOff" : [ 0.0 ],
+					"CurveReadTime" : [ 43.0 ],
+					"CurveRes" : [ 9.0 ],
+					"CurveRestart" : [ 0.0 ],
+					"CurveRestartTime" : [ 2137.007812 ],
+					"CurveRestart[1]" : [ 0.0 ],
+					"envGEN" : [ 0.0 ],
+					"live.toggle" : [ 0.0 ],
+					"live.toggle[1]" : [ 0.0 ],
+					"live.toggle[2]" : [ 0.0 ],
+					"live.toggle[3]" : [ 0.0 ],
+					"live.toggle[4]" : [ 0.0 ],
+					"number" : [ 43 ],
+					"number[100]" : [ 8192 ],
+					"number[101]" : [ 32 ],
+					"number[102]" : [ 0 ],
+					"number[99]" : [ 2137 ],
+					"testAH" : [ 52 ],
+					"tester[1]" : [ 17 ],
+					"toggle[37]" : [ 0 ],
+					"toggle[38]" : [ 0 ],
+					"M4L.api.DeviceParameterRemote[2]::M4L.api.SaveLivePath[1]::live-path" : [ "live_set", "tracks", 1, "devices", 1, "parameters", 34 ]
+				}
+
+			}
 
 		}
 
