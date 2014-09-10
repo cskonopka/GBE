@@ -1,4 +1,4 @@
-#generativeEnvelope
+#generativeBreakpointEnvelope
 ==================
 
 ###generative breakpoint envelope for Ableton and MaxMSP
