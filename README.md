@@ -3,7 +3,7 @@
 
 ###generative breakpoint envelope for Ableton and MaxMSP
 
-![Max-for-Live](http://christopherkonopka.com/wp-content/uploads/2014/09/github-m4L-generativeEnvelope.png)
+![Max-for-Live](http://christopherkonopka.com/wp-content/uploads/2014/09/generativeEnvelope.png)
 
 ####This plug-in gives the ability to create their own envelope that can be applied to an Audio Plug-in parameter or Session View parameter. An envelope can be created manually by adding breakpoints individually using the mouse, by using the [*add point*] button or by toggling the restart feature which generates random breakpoints. 
 
