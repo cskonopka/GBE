@@ -7,6 +7,8 @@
 
 ####This plug-in gives the ability to create their own envelope that can be applied to an Audio Plug-in parameter or Session View parameter. An envelope can be created manually by adding breakpoints individually using the mouse, by using the [*add point*] button or by toggling the restart feature which generates random breakpoints. 
 
+https://www.youtube.com/watch?v=7SjVqSB3FCI
+
 **on/off toggle**: *this enables the breakpoint envelope generator*
 
 **envelopeSize**: *the maximum value of the x-axis*
