@@ -1,42 +1,20 @@
-#generativeBreakpointEnvelope
+# GBE (generative breakpoint envelope)
 ==================
-
-###generative breakpoint envelope for Ableton and MaxMSP
-
-![Max-for-Live](http://christopherkonopka.com/wp-content/uploads/2014/09/generativeEnvelope.png)
+![GBE](https://i.ibb.co/sqq49vb/GBE-01.png)
 
 ####This plug-in gives the ability to create their own envelope that can be applied to an Audio Plug-in parameter or Session View parameter. An envelope can be created manually by adding breakpoints individually using the mouse, by using the [*add point*] button or by toggling the restart feature which generates random breakpoints. 
 
-https://www.youtube.com/watch?v=7SjVqSB3FCI
+## How to use
+- *on/off*: Toggle GBE functionality
+- *trigger*: Trigger the breakpoint envelope
+- *clear*: Clear the breakpoint envelope
+- *envelopeSize*: The size of the envelope
+- *readTime*: The speed of the envelope
+- *add new dot*: - Randomly add a new point to the breakpoint envelope
+- *loop*: - Loop the current breakpoint envelope
+- *gen dots*: - Generate new points each time the envelope is looped.
+- *retrigTime*: - The time it takes to retrigger the envelope.
 
-**on/off toggle**: *this enables the breakpoint envelope generator*
+## Demo
 
-**envelopeSize**: *the maximum value of the x-axis*
-
-**readTime**: *the speed at which the breakpoint envelope is read*
-
-**add point**: *manually adds a generative breakpoint*
-
-**trigger**: *trigger the breakpoint envelope*
-
-**clear**: *clear the breakpoint envelope*
-
-**curve resolution**: *the resolution of randomness that generates new breakpoints*
-
-**restartTime toggle**: *when enabled, the breakpoint envelope will be re-triggered based on a time interval*
-
-**restartTime**: *the amount of time it takes to re-trigger the breakpoint envelope*
-
-**loop new pts**: *when enabled with restart time ON, each time the loop is restarted, a new generative breakpoint will be added*
-
-**lo**: *this determines the lowest point of the envelope [re-scaled from 0 -1 to lo - hi]*
-
-**hi**: *this determines the highest point of the envelope [re-scaled from 0 -1 to lo - hi]*
-
-**device**: *when this plug-in is placed in the Audio Effect rack, this menu will be populated and will contain all of the names of the available plug-ins in the associated effect rack*
-
-**parameter**: *after selecting a device from the Audio Effect rack, this menu will be populated and will contain all of the names of the available parameters associated with the previously selected Audio Effect*
-
-**menu reset**: *refresh the Device and Parameter menu*
-
-**presets**: *recall Audio Plug-in devices/parameters [stored in a JSON file named generativeENV.json]*
+![GBE](https://i.ibb.co/X7m5dVq/GBE.gif)
