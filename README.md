@@ -27,7 +27,7 @@
   <img width="45%" height="45%" src="https://i.ibb.co/Vjgt1DD/GBE-02-bpatcher.png"/>  
 </p>
 
-- Link the *GBE.maxpat* to the bpatcher
+- Highlight the *bpatcher* object, open the inspector and select the *GBR.maxpat* file via the *Patcher file* file input.
 <p align="center">
   <img width="45%" height="45%" src="https://i.ibb.co/hBRMyHg/GBE-03-patcherfile.png"/>  
 </p>
