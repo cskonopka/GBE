@@ -19,7 +19,7 @@
 ## How to use
 - Create a new Max Patch
 <p align="center">
-  <img width="45%" height="45%" src="https://i.ibb.co/cY2mjKR/GBE-01-newpatch.png"/>  
+  <img width="45%" height="45%" src="https://i.ibb.co/3hcJXSg/GBE-01-newpatch.png"/>  
 </p>
 
 - Creat a *bpatcher* object
