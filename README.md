@@ -1,4 +1,4 @@
-#GBE (generative breakpoint envelope)
+# GBE (generative breakpoint envelope)
 ==================
 ![GBE](https://i.ibb.co/sqq49vb/GBE-01.png)
 
