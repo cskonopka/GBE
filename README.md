@@ -1,10 +1,9 @@
 # GBE (generative breakpoint envelope)
-==================
 <p align="center">
   <img width="45%" height="45%" src="https://i.ibb.co/sqq49vb/GBE-01.png"/>  
 </p>
 
-The *GBE* is a Max snippet for creating and looping randomly generated breakpoint envelopes for audio and data projects.
+*GBE* is a Max snippet for generating breakpoint envelopes for audio and data projects.
 
 ## How to use
 - *on/off*: Toggle GBE functionality
