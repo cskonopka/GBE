@@ -18,9 +18,28 @@
 
 ## How to use
 - Create a new Max Patch
+<p align="center">
+  <img width="45%" height="45%" src="https://i.ibb.co/cY2mjKR/GBE-01-newpatch.png"/>  
+</p>
+
 - Creat a *bpatcher* object
+<p align="center">
+  <img width="45%" height="45%" src="https://i.ibb.co/Vjgt1DD/GBE-02-bpatcher.png"/>  
+</p>
+
 - Link the *GBE.maxpat* to the bpatcher
+<p align="center">
+  <img width="45%" height="45%" src="https://i.ibb.co/hBRMyHg/GBE-03-patcherfile.png"/>  
+</p>
+
 - Use the outlet to receive the data in a new patch.
+<p align="center">
+  <img width="45%" height="45%" src="https://i.ibb.co/StRscJM/GBE-04-outlet.png"/>  
+</p>
+
+
+
+
 
 ## Demo
 <p align="center">
