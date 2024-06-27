@@ -1,9 +1,9 @@
 # GBE (generative breakpoint envelope)
 <p align="center">
-  <img width="45%" height="45%" src="https://i.ibb.co/sqq49vb/GBE-01.png"/>  
+  <img width="45%" height="45%" src="https://github.com/cskonopka/GBE/blob/master/assets/generative-breakpoint-envelope-logo.png?raw=true"/>  
 </p>
 
-*GBE* is a Max snippet for generating breakpoint envelopes for audio and data projects.
+<p align="center"><em>GBE a generative breakpoint envelope for audio and data project in MaxMSP.</em></p> 
 
 ## How to use
 - *on/off*: Toggle GBE functionality
