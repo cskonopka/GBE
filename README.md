@@ -16,6 +16,10 @@
 - *retrigTime*: - The time it takes to retrigger the envelope.
 
 ## How to use
+<p align="center">
+  <img width="45%" height="45%" src="https://i.ibb.co/X7m5dVq/GBE.gif"/>  
+</p>
+
 - Create a new Max Patch
 <p align="center">
   <img width="45%" height="45%" src="https://i.ibb.co/3hcJXSg/GBE-01-newpatch.png"/>  
@@ -36,11 +40,7 @@
   <img width="45%" height="45%" src="https://i.ibb.co/StRscJM/GBE-04-outlet.png"/>  
 </p>
 
-
-
-
-
 ## Demo
-<p align="center">
-  <img width="45%" height="45%" src="https://i.ibb.co/X7m5dVq/GBE.gif"/>  
-</p>
+
+https://github.com/cskonopka/GBE/assets/7625379/1ef3f459-e903-402c-bd48-b5df3a1b76ca
+
