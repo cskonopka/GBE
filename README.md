@@ -1,6 +1,5 @@
-# GBE (generative breakpoint envelope)
 <p align="center">
-  <img width="45%" height="45%" src="https://github.com/cskonopka/GBE/blob/master/assets/generative-breakpoint-envelope-logo.png?raw=true"/>  
+  <img width="40%" height="40%" src="https://github.com/cskonopka/GBE/blob/master/assets/generative-breakpoint-envelope-logo.png?raw=true"/>  
 </p>
 
 <p align="center"><em>GBE a generative breakpoint envelope for audio and data project in MaxMSP.</em></p> 
