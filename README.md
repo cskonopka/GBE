@@ -2,7 +2,7 @@
   <img width="40%" height="40%" src="https://github.com/cskonopka/GBE/blob/master/assets/generative-breakpoint-envelope-logo.png?raw=true"/>  
 </p>
 
-<p align="center"><em>GBE a generative breakpoint envelope for audio and data project in MaxMSP.</em></p> 
+<p align="center"><em>GBE a generative breakpoint envelope for audio and data projects in MaxMSP.</em></p> 
 
 ## How to use
 - *on/off*: Toggle GBE functionality
